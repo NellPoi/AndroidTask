@@ -1,2 +1,3 @@
+include ':task1_guide'
 include ':app'
 rootProject.name = "Task"
