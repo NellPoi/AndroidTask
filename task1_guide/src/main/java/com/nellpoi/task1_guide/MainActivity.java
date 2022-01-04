@@ -8,7 +8,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
 import com.youth.banner.Banner;
 import com.youth.banner.adapter.BannerImageAdapter;
@@ -102,7 +101,8 @@ public class MainActivity extends AppCompatActivity {
         AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
         builder.setTitle("关于");
         builder.setMessage("GitHub：https://github.com/NellPoi/AndroidTask\n" +
-                "创建时间：2021-12-27 T 06:00:56 Z\n");
+                "创建时间：2021-12-27 T 06:00:56 Z\n" +
+                "注意：邮件通信使用的是本人的API，无法保证该功能一直生效");
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
