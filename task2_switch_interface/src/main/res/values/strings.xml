@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task2_switch_interface</string>
+    <string name="title_page1">提醒</string>
+    <string name="title_page2">信息</string>
+    <string name="title_page3">我的</string>
+    <string name="title_page4">设置</string>
+</resources>

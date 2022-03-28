@@ -1,3 +1,7 @@
+include ':task2_animation'
+include ':animation'
+include ':task2_switch_interface'
+include ':task2_account_management'
 include ':task1_guide'
 include ':app'
 rootProject.name = "Task"

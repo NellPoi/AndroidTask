@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nellpoi.task2_animation.MainActivity">
+    <item
+        android:id="@+id/action_settings_animator1"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_animator2_1"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator2_1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings_animator2_2"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator2_2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings_animator2_3"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator2_3"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings_animator2_4"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator2_4"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings_animator3_1"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator3_1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings_animator3_2"
+        android:orderInCategory="100"
+        android:title="@string/action_settings_animator3_2"
+        app:showAsAction="never" />
+</menu>

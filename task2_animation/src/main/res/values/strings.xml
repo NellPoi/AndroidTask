@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">task2_animation</string>
+    <string name="action_settings_animator1">逐帧动画</string>
+    <string name="action_settings_animator2_1">补间动画（Alpha）</string>
+    <string name="action_settings_animator2_2">补间动画（Rotate）</string>
+    <string name="action_settings_animator2_3">补间动画（Scale）</string>
+    <string name="action_settings_animator2_4">补间动画（Translate）</string>
+    <string name="action_settings_animator3_1">属性动画</string>
+    <string name="action_settings_animator3_2">属性动画的子类 ObjectAnimator</string>
+</resources>

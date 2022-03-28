@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- android:drawable 图片素材 -->
+    <!-- android:duration 持续时间，单位为毫秒 -->
+    <item android:drawable="@drawable/animal_1" android:duration="45"/>
+    <item android:drawable="@drawable/animal_2" android:duration="45"/>
+    <item android:drawable="@drawable/animal_3" android:duration="45"/>
+    <item android:drawable="@drawable/animal_4" android:duration="45"/>
+    <item android:drawable="@drawable/animal_5" android:duration="45"/>
+    <item android:drawable="@drawable/animal_6" android:duration="45"/>
+    <item android:drawable="@drawable/animal_7" android:duration="45"/>
+    <item android:drawable="@drawable/animal_8" android:duration="45"/>
+    <item android:drawable="@drawable/animal_9" android:duration="45"/>
+    <item android:drawable="@drawable/animal_10" android:duration="45"/>
+    <item android:drawable="@drawable/animal_11" android:duration="45"/>
+    <item android:drawable="@drawable/animal_12" android:duration="45"/>
+    <item android:drawable="@drawable/animal_13" android:duration="45"/>
+    <item android:drawable="@drawable/animal_14" android:duration="45"/>
+    <item android:drawable="@drawable/animal_15" android:duration="45"/>
+    <item android:drawable="@drawable/animal_16" android:duration="45"/>
+    <item android:drawable="@drawable/animal_17" android:duration="45"/>
+    <item android:drawable="@drawable/animal_18" android:duration="45"/>
+    <item android:drawable="@drawable/animal_19" android:duration="45"/>
+    <item android:drawable="@drawable/animal_20" android:duration="45"/>
+    <item android:drawable="@drawable/animal_21" android:duration="45"/>
+    <item android:drawable="@drawable/animal_22" android:duration="45"/>
+    <item android:drawable="@drawable/animal_23" android:duration="45"/>
+    <item android:drawable="@drawable/animal_24" android:duration="45"/>
+    <item android:drawable="@drawable/animal_25" android:duration="45"/>
+    <item android:drawable="@drawable/animal_26" android:duration="45"/>
+    <item android:drawable="@drawable/animal_27" android:duration="45"/>
+    <item android:drawable="@drawable/animal_28" android:duration="45"/>
+    <item android:drawable="@drawable/animal_29" android:duration="45"/>
+</animation-list>

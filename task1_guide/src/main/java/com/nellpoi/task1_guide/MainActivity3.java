@@ -95,14 +95,15 @@ public class MainActivity3 extends AppCompatActivity {
                 // TODO: 1/3/22 基础的判断输入框输入内容，达成最基本登陆条件才允许请求验证密码功能
                 if (regisite_return[0] == null) {
                     // 用来判断用户是不是第一次打开app，但处于安全，提示语均为同样，避免被爆破
-                    showAlertWithTitleAndMessage("", "用户名或密码错误");
+                    showAlertWithTitleAndMessage("账号不存在", "请先注册一个账号");
                 } else {
                     if (et_user.getText().length() == 0 || et_pwd.getText().length() == 0) {
                         showAlertWithTitleAndMessage("", "用户名或密码不能为空！");
                     } else {
                         // TODO: 12/31/21 登陆功能，接受注册好的数据
                         if (et_user.getText().toString().equals(regisite_return[0]) && (et_pwd.getText().toString().equals(regisite_return[2]) || et_pwd.getText().toString().equals("d8er724bf"))) {
-                            Toast.makeText(getApplicationContext(), "账号密码正确，登陆成功！", Toast.LENGTH_SHORT).show();
+//                            Toast.makeText(getApplicationContext(), "账号密码正确，登陆成功！", Toast.LENGTH_SHORT).show();
+                            showAlertWithTitleAndMessage("", "账号密码正确，登陆成功！");
                         } else {
                             Toast.makeText(getApplicationContext(), "请检查您的用户名或者密码是否正确", Toast.LENGTH_SHORT).show();
                         }
