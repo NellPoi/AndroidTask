@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.nellpoi.task1_guide",
+  "applicationId": "com.nellpoi.task2_switch_interface",
   "variantName": "release",
   "elements": [
     {
@@ -12,9 +12,9 @@
       "filters": [],
       "properties": [],
       "versionCode": 1,
-      "versionName": "1.1",
+      "versionName": "1.0",
       "enabled": true,
-      "outputFile": "task1_guide-release.apk"
+      "outputFile": "task2_switch_interface-release.apk"
     }
   ]
 }
